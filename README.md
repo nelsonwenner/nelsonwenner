@@ -6,6 +6,6 @@
 Here are some informations about me:
 
 - 👨‍🎓 Analysis and software development student at [IFPI](http://www.ifpi.edu.br/)
-- 📫 How to reach me: [Send me a email](mailto:nelsonwenneer.com)
+- 📫 How to reach me: [Send me a email](mailto:nelsonwenneer@gmail.com)
 - ⚡ Fun facts: I even do non computer things sometimes.
 
